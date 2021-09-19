@@ -1,0 +1,2 @@
+# JSCalculator
+Calculator using JavaScript
